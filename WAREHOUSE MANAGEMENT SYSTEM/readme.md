@@ -1,0 +1,1 @@
+A Web application developed in PHP and MySQL used to keep records of sales, purchase, stock in warehouse, reviewing customer, supplier profiling and with additional feature of data interpreting generating report with printout of it. Special features were Auto-Fill, SQL-Injections and Honeypots.
