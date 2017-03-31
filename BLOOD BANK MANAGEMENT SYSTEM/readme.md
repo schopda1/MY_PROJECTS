@@ -1,0 +1,1 @@
+It was an online application designed for blood seekers and donors who can give blood and search for blood per blood group respectively. The blood bank can give and take blood and can manage inventory. Technology used was JavaFX for front end and MySQL for backend.
