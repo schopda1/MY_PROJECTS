@@ -1,0 +1,1 @@
+A Web- based application developed in PHP which is used to keep track of sales, purchase, stock in warehouse, customer profiling, supplier profiling and with additional feature of data interpreting generating report with printout of it using PHP and MySQL .My job was to support database at both ends( clients and company )
